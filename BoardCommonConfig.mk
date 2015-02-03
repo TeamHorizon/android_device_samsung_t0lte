@@ -79,5 +79,3 @@ BOARD_SEPOLICY_UNION += \
     wpa_supplicant.te \
     zygote.te
 
-# Device releasetools
-TARGET_RELEASETOOLS_EXTENSIONS := device/samsung/t0lte
